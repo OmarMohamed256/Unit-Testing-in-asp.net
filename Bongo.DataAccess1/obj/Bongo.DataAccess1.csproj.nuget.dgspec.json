@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP.Net projects\\Sparky\\Bongo.DataAccess1\\Bongo.DataAccess1.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\Bongo.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\Bongo.Models.csproj",
+        "projectName": "Bongo.Models",
+        "projectPath": "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\Bongo.Models.csproj",
+        "packagesPath": "C:\\Users\\omarm\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.Net projects\\Sparky\\Bongo.DataAccess1\\Bongo.DataAccess1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net projects\\Sparky\\Bongo.DataAccess1\\Bongo.DataAccess1.csproj",
+        "projectName": "Bongo.DataAccess1",
+        "projectPath": "D:\\ASP.Net projects\\Sparky\\Bongo.DataAccess1\\Bongo.DataAccess1.csproj",
+        "packagesPath": "C:\\Users\\omarm\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net projects\\Sparky\\Bongo.DataAccess1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\Bongo.Models.csproj": {
+                "projectPath": "D:\\ASP.Net projects\\DotNet Courses\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Complete-Guide-to-Unit-Testing-in-.NET-Core-NUnit-XUnit--main\\Section07\\Bongo.Models\\Bongo.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

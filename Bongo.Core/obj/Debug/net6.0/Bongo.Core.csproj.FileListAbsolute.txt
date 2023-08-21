@@ -1,0 +1,17 @@
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.AssemblyInfoInputs.cache
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.AssemblyInfo.cs
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.CoreCompileInputs.cache
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.Core.deps.json
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.Core.dll
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.Core.pdb
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.DataAccess.dll
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.Models.dll
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.DataAccess.pdb
+D:\ASP.Net projects\Sparky\Bongo.Core\bin\Debug\net6.0\Bongo.Models.pdb
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.AssemblyReference.cache
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.CopyComplete
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.dll
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\refint\Bongo.Core.dll
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\Bongo.Core.pdb
+D:\ASP.Net projects\Sparky\Bongo.Core\obj\Debug\net6.0\ref\Bongo.Core.dll
